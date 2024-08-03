@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lilariann&label=Profile%20views&color=0e75b6&style=flat" alt="lilariann" /> </p>
 
-<p align="left"> <a href="https://twitter.com/lil_ariann" target="blank"><img src="https://img.shields.io/twitter/follow/lil_ariann?logo=twitter&style=for-the-badge" alt="lil_ariann" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Ic_arian" target="blank"><img src="https://img.shields.io/twitter/follow/Ic_arian?logo=twitter&style=for-the-badge" alt="Ic_arian" /></a> </p>
 
-- 🌱 I’m currently learning **Js and React**
+- 🌱 I’m currently learning **pyrhon**
 
 - 💬 Ask me about **Full-stack**
 
-- 📫 How to reach me **arian.gholamii82@gmail.com**
+- 📫 How to reach me **[arian.gholamii82@gmail.com](https://www.linkedin.com/in/arian-gholami/)**
 
 - ⚡ Fun fact **Take it easy boy**
 
